@@ -1,0 +1,18 @@
+Three different behaviors that you made:
+1. Coconut would fall when they are mature and roll into the sea and soon grow again.
+2. Cow can walk, swing its tail, turn around, eat grass
+3. The excavator keeps dig sand and throw them into the sea
+
+One behavior that is not simple:
+Coconut would randomly fall when they are mature and roll into the sea and soon grow again.
+You can expect about in 16 seconds a coconut to fall and 10 seconds to grow at 1.00 speed
+Animated Articulated Figure: Mr. Copper 
+Articulated: cow's tail\ Mr. Copper
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- The helicopter flies in a not simple route
+- Mr. Copper sometimes wander, sometimes lie on the beach chair to have a snap.
+-The helicopter sometimes fly high sometimes descend, sometimes turn sharply.
+
+If timeOfDay are in the evening hours, the skybox would change to galaxy sky.
+(But I didn't find how to change timeOfDay) 

@@ -1,0 +1,9 @@
+List all attributions here, this include "self-attributions":
+
+The statue model: https://www.cgtrader.com/items/72531/download-page
+The water shader: https://github.com/mrdoob/three.js/tree/dev/examples
+The House model : https://www.cgtrader.com/items/3290531/download-page
+The chair geometry: https://www.cgtrader.com/free-3d-models/exterior/other/low-poly-beach-scene
+
+Helicopter : From my workbook7 https://github.com/CS559-Spring23/wb07-GesusMist/blob/master/for_students/07-06-01.js
+The excavator : From workbook7 example code https://github.com/CS559-Spring23/wb07-GesusMist/blob/master/for_students/07-09-constructionobjects.js

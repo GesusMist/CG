@@ -1,0 +1,37 @@
+(Required) Two kinds of objects created for this assignment:
+1. Coconut Tree
+2. Cow
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. GrassField
+4. Helicopter
+5. Airport
+6. Mr.Copper 
+7. bee
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- water
+- island
+- Constructing sign
+
+At least one of each type of object:
+Building/structure: Wood house / Statue
+
+Vehicle: Cow (Yes! What do you expect to be a vehicle on an island! Well there are other vehicles)
+        Helicopter
+        Mr. Copper (I made him rideable, so you can if you want)
+
+Natural Element: Coconut Tree
+                GrassField
+
+Object loaded from a model file: Statue, house
+Model: ./objects/statue.obj ./objects/house.obj
+
+An object with a shader that you wrote: Cow \ Grass (Grass's color varies according to it's height. Sadly grass cannot move)
+ShaderObj: ./cowshader.fs ./cowshader.vs ./grassshader.fs ./grassshader.vs
+
+Other Objects that you would like to note:
+Swing-0: The swing behind the house was Mr. Copper's favorite when he was little. But now it's full of rust and almost broke. The wind would Occasionally pull it. You are really lucky if you see it. 
+
+I was planning to let the statue lift a "crystal ball" that reflect everything
+But adding it would be so slow (about 200ms per frame). It's in ./crystalBall.js, so it's not added to scene 

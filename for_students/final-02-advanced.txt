@@ -1,0 +1,23 @@
+Advanced Thing: Complex Object& Complex Behavior  (#2&#3)
+example: LookAt: man-1
+I call him Mr. copper, the land owner, he sometimes walk around and some times go get a snap. (A rather complicated finite state machine )
+You will want to see how he wake up, it's cool and smooth.
+(He would be defaultly lying and wake up if you fresh the page ) 
+
+Advanced Thing: Complex Behavior  (#2)
+example: LookAt: cow-1
+It behaves much like cows in Minecraft. It can walk, turn, eat grass, and you can ride it!
+This is implemented using a finite state machine 
+
+Advanced Thing: Use Noise (#12)
+example: LookAt: cow-1
+The cow's pattern are generated using Perlin noise
+
+Advanced Thing: Complex Adaption (#5)
+example: lookAt : Island
+It's the water. But lookAt water doesnot work well.
+It's a really complicated shader made by Three's author, I forked it and made some changes and applied here. It took effort to fit it in (eg: run and stop with the UI)
+
+Advanced Thing: Dynamic Texture Map (16#)
+Sadly it's not in the scene because it slows the performance significantly.
+But it's in ./crystalBall.js check it out! 
