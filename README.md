@@ -1,1 +1,1 @@
-# CG
+# Course project for COmputer Graphics
